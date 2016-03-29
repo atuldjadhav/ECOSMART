@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECOSMART</string>
+    <string name="title_activity_show_comments">ShowComments</string>
+    <string name="title_activity_capture_photo">CapturePhoto</string>
+    <string name="title_activity_audiorec">audiorec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_capture_image">CaptureImage</string>
+    <string name="title_activity_android_video_capture">AndroidVideoCapture</string>
+    <string name="title_activity_video_recorder">VideoRecorder</string>
+    <string name="title_activity_video_player">VideoPlayer</string>
+</resources>
